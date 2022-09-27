@@ -11,7 +11,7 @@ OUTPUT IMAGES
 
 # SCREEN  AFTER ANSWERING A QUESTION
 
-img width="1440" alt="Screenshot 2022-09-27 at 9 49 26 AM" src="https://user-images.githubusercontent.com/111295843/192435306-a9dbd63e-05e9-47b7-8ab1-710ddd1bef34.png">
+<img width="1440" alt="Screenshot 2022-09-27 at 9 49 26 AM" src="https://user-images.githubusercontent.com/111295843/192435306-a9dbd63e-05e9-47b7-8ab1-710ddd1bef34.png">
 
 <img width="1440" alt="Screenshot 2022-09-27 at 9 49 38 AM" src="https://user-images.githubusercontent.com/111295843/192435418-08109916-ec77-46eb-a2ac-9f3a2d61355d.png">
 
