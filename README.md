@@ -1,6 +1,13 @@
 # QUIZ APP 
 
-THIS IS A QUIZ APP MADE USING REACT JS
+This is a quiz app where the user gets to play some trivia questions.
+Technologies Used - 
+1. ReactJS - Main Javascript framework used
+2. HTML 
+3. CSS - Tailwind CSS framework is used for beautifiying of the components and website.
+4. JS
+
+The API used for fetching the quiz is - 
 
 # MAIN PAGE WHERE THE QUESTION IS DISPLAYED
 
