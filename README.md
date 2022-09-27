@@ -13,7 +13,7 @@ THIS IS A QUIZ APP MADE USING REACT JS
 
 <img width="1440" alt="Screenshot 2022-09-27 at 9 49 38 AM" src="https://user-images.githubusercontent.com/111295843/192435418-08109916-ec77-46eb-a2ac-9f3a2d61355d.png">
 
-#FINAL PAGE WHICH DISPLAYS THE SCORE OF THE USER AFTER THE QUIZ HAS ENDED
+# FINAL PAGE WHICH DISPLAYS THE SCORE OF THE USER AFTER THE QUIZ HAS ENDED
 
 <img width="1440" alt="Screenshot 2022-09-27 at 9 49 59 AM" src="https://user-images.githubusercontent.com/111295843/192435426-7e6a9154-97cd-47e4-b8fb-b3f3c7237807.png">
 
