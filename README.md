@@ -8,7 +8,9 @@ Technologies Used -
 3. CSS - Tailwind CSS framework is used for beautifiying of the components and website.
 4. JS
 
-The API used for fetching the quiz is - "[https://opentdb.com/api.php?amount=10]"
+The API used for fetching the quiz questions is - https://opentdb.com/api.php?amount=10
+
+## OUTPUT WEBSITE IMAGES
 
 # MAIN PAGE WHERE THE QUESTION IS DISPLAYED
 
