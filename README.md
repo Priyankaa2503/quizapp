@@ -1,6 +1,7 @@
 # QUIZ APP 
 
 This is a quiz app where the user gets to play some trivia questions.
+
 Technologies Used - 
 1. ReactJS - Main Javascript framework used
 2. HTML 
